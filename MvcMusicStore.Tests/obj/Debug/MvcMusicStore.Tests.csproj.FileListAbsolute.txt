@@ -15,3 +15,5 @@ c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusi
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.csprojResolveAssemblyReference.cache
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.dll
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.pdb
+c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\EntityFramework.dll
+c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\EntityFramework.xml
