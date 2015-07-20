@@ -1,2 +1,0 @@
-# MvcMusciStore 
-Hello World Back!
