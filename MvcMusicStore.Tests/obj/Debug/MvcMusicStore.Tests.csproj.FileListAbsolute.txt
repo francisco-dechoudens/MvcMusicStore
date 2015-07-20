@@ -2,12 +2,14 @@ c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusi
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.Tests.pdb
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.dll
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\EntityFramework.dll
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\System.Web.Razor.dll
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\System.Web.WebPages.dll
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.pdb
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\EntityFramework.xml
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\System.Web.Razor.xml
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\System.Web.WebPages.xml
@@ -15,5 +17,3 @@ c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusi
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.csprojResolveAssemblyReference.cache
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.dll
 c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.pdb
-c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\EntityFramework.dll
-c:\users\fdechoudens\documents\visual studio 2013\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\EntityFramework.xml
